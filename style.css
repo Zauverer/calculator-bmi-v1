@@ -114,3 +114,8 @@ button#calculate:hover{
     border-radius: 55px;
     margin-bottom: 25px;   
 }
+
+#comment{
+    color: #4f7df9;
+    font-weight: 1200;
+}
